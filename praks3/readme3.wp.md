@@ -6,3 +6,6 @@ apt install mysql-server mysql-client
 
 # phpmyadmin-i installimine
 apt install phpmyadmin
+
+# phpmyqdmin-isse sisselogimine
+172.23.13.37/phpmyadmin
